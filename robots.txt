@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Exclude internal GitHub files
+Disallow: /README.md
+Disallow: /CNAME
+
+# Point to the sitemap for discovery
+Sitemap: https://purebakes.in/sitemap.xml
