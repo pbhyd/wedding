@@ -6,4 +6,4 @@ Disallow: /README.md
 Disallow: /CNAME
 
 # Point to the sitemap for discovery
-Sitemap: https://purebakes.in/sitemap.xml
+Sitemap: https://weddingcakeshyderabad.in/sitemap.xml
